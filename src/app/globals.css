@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .blueGradient {
+        @apply before:absolute before:inset-0 before:z-[-1] before:bg-gradient-to-b before:from-gradientBlue1 before:to-gradientBlue3 before:via-gradientBlue2 before:via-50% before:to-90%;
+    }
+}
+* {
+    scroll-behavior: smooth;
+}
