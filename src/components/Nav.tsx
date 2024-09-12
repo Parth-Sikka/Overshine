@@ -32,9 +32,9 @@ export default function Nav() {
                     <nav className="hidden md:block">
                         <ul className="flex gap-10 items-center capitalize font-semibold">
                             <Link href="#Hero">Home</Link>
-                            <Link href="#AboutUs">about us</Link>
-                            <Link href="#Services">services</Link>
-                            <Link href="#Blogs">blog</Link>
+                            <Link href="#AboutUs">About us</Link>
+                            <Link href="#WorkingProcess">Process</Link>
+                            <Link href="#Services">Services</Link>
                         </ul>
                     </nav>
                     <Button
@@ -72,9 +72,8 @@ export default function Nav() {
                         <ul className="flex flex-col items-center gap-6 capitalize font-semibold">
                             <Link href="#Hero">Home</Link>
                             <Link href="#AboutUs">about us</Link>
+                            <Link href="#WorkingProcess">Process</Link>
                             <Link href="#Services">services</Link>
-                            <Link href="#">pricing</Link>
-                            <Link href="#">blog</Link>
                         </ul>
                     </nav>
                 </div>
