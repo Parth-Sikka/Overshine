@@ -54,6 +54,9 @@ export default function Hero() {
                     <p className="text-sm sm:text-lg md:text-base lg:text-lg w-72 md:w-full lg:w-10/12 mx-auto md:mx-0">
                         We understand that every space is unique. Our team collaborates with you to develop a customized cleaning plan that meets your specific needs, whether it's a small office or a large industrial facility.
                     </p>
+                    <p className="text-sm sm:text-lg md:text-base lg:text-lg w-72 md:w-full lg:w-10/12 mx-auto md:mx-0  text-primaryColor underline">
+                        We aim to offer a concierge service, providing help at a moment's notice.
+                    </p>
                 </motion.div>
                 <div className="flex text-sm  sm:flex-row w-full items-center justify-center md:justify-start gap-3 sm:gap-4 mt-4">
                     <Button props={{ text: "Let’s Get Started" }} />
