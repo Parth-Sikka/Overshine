@@ -39,8 +39,8 @@ export default function AboutUs() {
                         {/* </motion.div> */}
                     </div>
                     <p className="text-base sm:text-lg md:text-md lg:text-lg leading-relaxed">
-                        We believe that a clean environment is essential for success. With a strong focus on quality, we’ve become a trusted partner for businesses in many industries. Our goal is simple: to enhance your space with tailored cleaning solutions that go beyond just surface-level cleaning. <br/>
-                        Whether it’s office cleaning or industrial maintenance, our skilled team uses modern equipment and eco-friendly products to deliver results that exceed expectations. We are proud of our reliability and commitment to customer satisfaction. Each space we clean gets a customized plan to ensure our services meet your specific needs. <br/> 
+                        We believe that a clean environment is essential for success. With a strong focus on quality, we’ve become a trusted partner for businesses in many industries. Our goal is simple: to enhance your space with tailored cleaning solutions that go beyond just surface-level cleaning. <br/> <br/>
+                        Whether it’s office cleaning or industrial maintenance, our skilled team uses modern equipment and eco-friendly products to deliver results that exceed expectations. We are proud of our reliability and commitment to customer satisfaction. Each space we clean gets a customized plan to ensure our services meet your specific needs.<br/> <br/> 
                         At Overshine, we don’t just clean spaces, we build strong relationships based on trust and professionalism. Our clients know they can count on us for consistent, high-quality results every time. Discover the Overshine difference, and let us help you maintain a clean, thriving environment for your business.
                     </p>
 
