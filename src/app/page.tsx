@@ -6,7 +6,6 @@ import WorkingProcess from "@/components/WorkingProcess";
 import ServicesShowcase from "@/components/ServicesShowcase";
 import Feedback from "@/components/Feedback";
 import ContactUs from "@/components/ContactUs";
-import Blogs from "@/components/Blogs";
 import NewsLetter from "@/components/NewsLetter";
 import Footer from "@/components/Footer";
 import { motion } from "framer-motion"
@@ -25,7 +24,6 @@ export default function Home() {
                 <ServicesShowcase />
                 <Feedback />
                 <ContactUs />
-                <Blogs />
                 <NewsLetter />
                 <Footer />
             </main>
