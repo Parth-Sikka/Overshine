@@ -119,7 +119,7 @@ export default function ContactUs() {
                             </div>
                             <div className="flex items-center gap-4 md:gap-6">
                                 <Image src={Location} alt="Location" className="w-6 md:w-8" />
-                                <p className="text-sm md:text-base">10 canal st #188, <br/> miami springs, fl 33166</p>
+                                <p className="text-sm md:text-base">10 Canal St #188, <br/> Miami Springs, FL 33166</p>
                             </div>
                         </div>
                         <div className="flex items-center gap-4 md:gap-6">
