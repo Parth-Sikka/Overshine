@@ -111,15 +111,15 @@ export default function ContactUs() {
                         <div className="space-y-6">
                             <div className="flex items-center gap-4 md:gap-6">
                                 <Image src={Call} alt="Phone" className="w-6 md:w-8" />
-                                <p className="text-sm md:text-base">123 456 789</p>
+                                <p className="text-sm md:text-base">305 614 0032</p>
                             </div>
                             <div className="flex items-center gap-4 md:gap-6">
                                 <Image src={Mail} alt="Mail" className="w-6 md:w-8" />
-                                <p className="text-sm md:text-base">contact@overshine.com</p>
+                                <p className="text-sm md:text-base">sales@overshinegs.com</p>
                             </div>
                             <div className="flex items-center gap-4 md:gap-6">
                                 <Image src={Location} alt="Location" className="w-6 md:w-8" />
-                                <p className="text-sm md:text-base">Address Here</p>
+                                <p className="text-sm md:text-base">10 canal st #188, <br/> miami springs, fl 33166</p>
                             </div>
                         </div>
                         <div className="flex items-center gap-4 md:gap-6">
