@@ -86,15 +86,15 @@ export default function Footer() {
                     <div className="space-y-4">
                         <div className="flex items-center gap-4">
                             <Image src={Call} alt="Phone" className="w-6 lg:w-8" />
-                            <p className="text-sm lg:text-base">123 456 789</p>
+                            <p className="text-sm lg:text-base">305 614 0032</p>
                         </div>
                         <div className="flex items-center gap-4">
                             <Image src={Mail} alt="Mail" className="w-6 lg:w-8 bg-sky-800" />
-                            <p className="text-sm lg:text-base">info@overshine.com</p>
+                            <p className="text-sm lg:text-base">sales@overshinegs.com</p>
                         </div>
                         <div className="flex items-center gap-4">
                             <Image src={Location} alt="Location" className="w-6 lg:w-8" />
-                            <p className="text-sm lg:text-base">Address Here</p>
+                            <p className="text-sm lg:text-base"> 10 Canal St #188,<br/> Miami Springs, FL 33166</p>
                         </div>
                     </div>
                 </div>
